@@ -64,7 +64,7 @@ export function validateConfig(config) {
     assertText(project?.heroLabel, `projects[${index}].heroLabel`, 30);
   });
 
-  assert(Array.isArray(config.techStack) && config.techStack.length >= 1 && config.techStack.length <= 18, "techStack must contain 1 to 18 items.");
+  assert(Array.isArray(config.techStack) && config.techStack.length >= 1 && config.techStack.length <= 19, "techStack must contain 1 to 19 items.");
   config.techStack.forEach((item, index) => assertText(item, `techStack[${index}]`, 30));
 
   assert(Array.isArray(config.links) && config.links.length >= 1 && config.links.length <= 4, "links must contain 1 to 4 items.");
