@@ -1,0 +1,100 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Rizky",
+    "username": "kijultzy",
+    "headline": "Backend Developer & CS Student",
+    "affiliation": "Telkom University",
+    "location": "Kutai Kartanegara, Indonesia",
+    "status": "Learning / Building / Securing",
+    "about": [
+      "I'm an Informatics undergraduate at Telkom University (2024-2028), originally from Kutai Kartanegara, building backend systems and exploring how software actually breaks.",
+      "My focus spans backend development in Go and Java, database design, network protocol analysis, and crypto/Web3, with cyber security as the direction I'm deepening next."
+    ]
+  },
+  "research": {
+    "primary": "Cyber Security",
+    "direction": "Secure backend & protocol systems",
+    "themes": "Backend / networks / crypto",
+    "narrative": "I care about systems that hold up under scrutiny: how services communicate, how protocols can be analyzed and attacked, and how backend architecture choices affect real-world security."
+  },
+  "focus": [
+    {
+      "name": "Backend Development",
+      "description": "Designing and building backend services and APIs with Go and Java."
+    },
+    {
+      "name": "Databases",
+      "description": "Modeling, querying, and optimizing relational data for real applications."
+    },
+    {
+      "name": "Network Protocols",
+      "description": "Analyzing how network protocols work and where they can be broken."
+    },
+    {
+      "name": "Crypto & Web3",
+      "description": "Exploring cryptographic primitives and decentralized systems."
+    }
+  ],
+  "projects": [
+    {
+      "name": "LoopAffi",
+      "url": "https://github.com/kijultzy/LoopAffi",
+      "homepage": "",
+      "focus": "Affiliate commission management",
+      "summary": "A commission information system for managing affiliate programs end to end.",
+      "heroLabel": "Affiliate system"
+    },
+    {
+      "name": "Kredit-Mikro",
+      "url": "https://github.com/kijultzy/Sistem-Penilaian-Kredit-Mikro",
+      "homepage": "",
+      "focus": "Fuzzy logic & ML credit scoring",
+      "summary": "A micro-credit scoring system combining Fuzzy Mamdani-Sugeno inference with machine learning and deep learning models.",
+      "heroLabel": "Credit scoring"
+    },
+    {
+      "name": "Tetris-Terminal",
+      "url": "https://github.com/kijultzy/Tetris-Game-Terminal",
+      "homepage": "",
+      "focus": "Terminal game development",
+      "summary": "A playable Tetris implementation that runs entirely in the terminal.",
+      "heroLabel": "Terminal game"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://github.com/kijultzy/rizky-portfolio",
+      "homepage": "",
+      "focus": "Personal portfolio website",
+      "summary": "My personal portfolio site showcasing projects and background.",
+      "heroLabel": "Portfolio site"
+    }
+  ],
+  "techStack": [
+    "Go",
+    "Java",
+    "PostgreSQL",
+    "MySQL",
+    "Python",
+    "Docker",
+    "Wireshark",
+    "Git"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "kijultzy",
+      "url": "https://github.com/kijultzy",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building backend systems and learning how to break (and defend) them."
+}
