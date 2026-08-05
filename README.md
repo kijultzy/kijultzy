@@ -5,6 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/kijultzy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-kijultzy-0B1220?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/rizkydza_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rizkydza__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rizky-dzulfikar-ahmad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rizky--dzulfikar--ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## About Me

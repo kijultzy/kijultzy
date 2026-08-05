@@ -122,6 +122,20 @@
       "url": "https://github.com/kijultzy",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Instagram",
+      "value": "rizkydza_",
+      "url": "https://www.instagram.com/rizkydza_/",
+      "logo": "instagram",
+      "color": "E4405F"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "rizky-dzulfikar-ahmad",
+      "url": "https://www.linkedin.com/in/rizky-dzulfikar-ahmad/",
+      "logo": "linkedin",
+      "color": "0A66C2"
     }
   ],
   "activity": {
