@@ -84,6 +84,14 @@
       "focus": "Personal portfolio website",
       "summary": "My personal portfolio site showcasing projects and background.",
       "heroLabel": "Portfolio site"
+    },
+    {
+      "name": "JustTix",
+      "url": "https://github.com/kijultzy",
+      "homepage": "",
+      "focus": "Web3 ticketing platform",
+      "summary": "Coming soon. Currently in development for a competition, details will be shared after the event.",
+      "heroLabel": "Coming soon"
     }
   ],
   "techStack": [

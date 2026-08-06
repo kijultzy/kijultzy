@@ -34,6 +34,7 @@ My focus spans backend development in Go and Java, database design, network prot
 | [**Tetris-Terminal**](https://github.com/kijultzy/Tetris-Game-Terminal) | Terminal game development | A playable Tetris implementation that runs entirely in the terminal. |
 | [**pullpay**](https://github.com/irham3/pullpay) | Trust-minimized rewards on Optimism | Trust-minimized open-source rewards on Optimism, built in collaboration with irham3. |
 | [**Portfolio**](https://github.com/kijultzy/rizky-portfolio) | Personal portfolio website | My personal portfolio site showcasing projects and background. |
+| [**JustTix**](https://github.com/kijultzy) | Web3 ticketing platform | Coming soon. Currently in development for a competition, details will be shared after the event. |
 
 ## Research Direction
 
