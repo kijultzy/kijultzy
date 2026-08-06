@@ -84,14 +84,6 @@
       "focus": "Personal portfolio website",
       "summary": "My personal portfolio site showcasing projects and background.",
       "heroLabel": "Portfolio site"
-    },
-    {
-      "name": "JustTix",
-      "url": "https://github.com/kijultzy/JustTix",
-      "homepage": "",
-      "focus": "Web3 ticketing platform",
-      "summary": "A Web3 ticketing platform prototype using non-custodial MPC wallets and Base L2 NFTs for transparent, anti-scalping ticket distribution.",
-      "heroLabel": "Web3 ticketing"
     }
   ],
   "techStack": [
